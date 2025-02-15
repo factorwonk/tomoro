@@ -33,7 +33,7 @@ class DocumentProcessor:
         
         # Set up summarization chain
         self.summarization_prompt = get_summarization_prompt()
-        self.chatgpt = ChatOpenAI(model="gpt-4", temperature=0)
+        self.chatgpt = ChatOpenAI(model="gpt-4o-mini", temperature=0)
         self.summarization_chain = (
             self.summarization_prompt
             | self.chatgpt
