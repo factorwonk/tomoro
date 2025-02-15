@@ -19,7 +19,7 @@ Example usage:
     qa_prompt = create_qa_prompt()
 """
 
-from src.rag.prompts.summarization import (
+from src.rag.prompts.templates import (
     get_summarization_prompt,
     format_summary_input
 )
