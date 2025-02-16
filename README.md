@@ -44,6 +44,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Dependencies for Sample Notebooks will not be installed!
+
 ### Environment Setup
 
 1. Copy the example environment file:
@@ -76,7 +78,7 @@ http://localhost:8501
 - `src/rag/`: Contains the RAG system implementation
 - `data/`: Directory for storing financial documents
 - `tests/`: Test files (to be implemented)
-- `sample_notebooks/`: Notebooks containing end-to-end pipeline, ragas evaluation and streamlit app within Jupyter Notebooks
+- `sample_notebooks/`: end-to-end pipeline; ragas evaluation; streamlit app and helper .py files
 
 ## Usage
 
