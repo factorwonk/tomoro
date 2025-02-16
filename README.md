@@ -78,7 +78,7 @@ http://localhost:8501
 - `src/app/`: Contains the Streamlit web application
 - `src/rag/`: Contains the RAG system implementation
 - `data/`: Directory for storing financial documents
-- `tests/`: Test files (to be implemented)
+- `tests/`: UAT (to be implemented)
 - `sample_notebooks/`: end-to-end pipeline; ragas evaluation; streamlit app files
 
 ## Usage
