@@ -76,6 +76,7 @@ http://localhost:8501
 - `src/rag/`: Contains the RAG system implementation
 - `data/`: Directory for storing financial documents
 - `tests/`: Test files (to be implemented)
+- `sample_notebooks/`: Notebooks containing end-to-end pipeline, ragas evaluation and streamlit app within Jupyter Notebooks
 
 ## Usage
 
