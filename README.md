@@ -44,7 +44,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### *** Dependencies for Sample Notebooks will not be installed ***
+[!NOTE] Dependencies for Sample Notebooks will not be installed
 
 ### Environment Setup
 
